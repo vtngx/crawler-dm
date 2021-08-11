@@ -1,0 +1,373 @@
+2021-08-11 17:51:08,906 - SPIDY - INFO - Successfully started crawler.
+2021-08-11 18:12:00,862 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 18:16:35,877 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 18:22:07,900 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 18:28:03,049 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 18:35:24,533 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/vi/linh-vuc-kinh-doanh/#may-tinh-de-ban/Content/home/images/img/bs1.png
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 18:37:22,845 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 18:44:56,215 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/en/career-oportunities/life-at-fpt
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 18:46:53,854 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/vi/co-hoi-nghe-nghiep/cuoc-song-tai-fpt/ngay-phu-huynh
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 18:48:27,045 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/vi/co-hoi-nghe-nghiep/cuoc-song-tai-fpt/thi-trang
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 18:51:25,182 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/vi/co-hoi-nghe-nghiep/cuoc-song-tai-fpt/nuoi-duong-uoc-mo-nghien-cuu-cong-nghe-moi
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 18:54:37,309 - SPIDY - ERROR - 
+URL: https://tuyendung.fpt.com.vn/Media/Images/BannerImages/7222021120000AM141021106webb.mp4
+ERROR: XMLSyntaxError
+EXT: Document is empty
+
+
+2021-08-11 18:56:29,037 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 19:10:00,038 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 19:18:37,765 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 19:31:06,011 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/en/contact
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 19:32:55,561 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/en/business-sectors/#tablets
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 19:34:56,648 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/en/newsroom//fpt-has-applied-technology-in-supporting-the-front-line-of-the-covid-19-battle
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 19:43:09,166 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 19:52:17,823 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 19:55:57,349 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 20:04:06,476 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 20:06:26,946 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 20:18:46,117 - SPIDY - ERROR - 
+URL: https://tuyendung.fpt.com.vn/Media/Images/BannerImages/7222021120000AM141021106webb.mp4
+ERROR: XMLSyntaxError
+EXT: Document is empty
+
+
+2021-08-11 20:20:28,830 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 20:43:00,038 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 20:47:02,609 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 20:51:51,035 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-11 21:20:59,181 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/vi/linh-vuc-kinh-doanh/vien-thong#trung-tam-du-lieu/Content/home/images/img/buss-27.png/Content/home/js/animate_fpt.js
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 21:24:05,707 - SPIDY - ERROR - 
+URL: https://www.fpt.com.vn/vi/linh-vuc-kinh-doanh/vien-thong#trung-tam-du-lieu/Content/home/images/img/buss-27.png/Content/home/css/all.css
+ERROR: OSError
+EXT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+2021-08-11 23:42:03,522 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:10:32,126 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:12:23,649 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:14:30,291 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:16:31,767 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:18:38,047 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:20:51,053 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:23:08,507 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:25:41,546 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:28:11,191 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:30:42,461 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:33:23,150 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:36:11,703 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:38:51,511 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:41:26,956 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:43:44,590 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:45:51,637 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:47:58,621 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:50:11,333 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:52:21,705 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:54:37,682 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:56:59,858 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 00:59:25,511 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:01:39,419 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:04:02,108 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:06:21,801 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:08:40,061 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:10:57,111 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:13:33,052 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:15:57,616 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:18:11,955 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:20:36,850 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
+2021-08-12 01:23:15,002 - SPIDY - ERROR - 
+URL: http://www.fstudiobyfpt.com.vn/
+ERROR: Unknown
+EXT: HTTPSConnectionPool(host='www.fstudiobyfpt.com.vn', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLCertVerificationError("hostname 'www.fstudiobyfpt.com.vn' doesn't match 'fstudiobyfpt.com.vn'")))
+
+
